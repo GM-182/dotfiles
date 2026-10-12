@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = galen.j.murray@gmail.com
+	name = Galen Murray
